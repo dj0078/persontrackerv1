@@ -1,3 +1,5 @@
 V1.0.0:  tracks people and objects with confidence score
 v1.1.0: tracks people with confidence score with ID
 v1.1.1: v1.1.0 but saves an output.mp4 video
+v1.2.0: Tracks dwell time of each ID
+v1.2.1: v1.2.1 but saves an output.mp4 video and .csv file of dwell time
