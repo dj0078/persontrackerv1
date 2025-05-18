@@ -1,5 +1,13 @@
 V1.0.0:  tracks people and objects with confidence score
 v1.1.0: tracks people with confidence score with ID
 v1.1.1: v1.1.0 but saves an output.mp4 video
+
 v1.2.0: Tracks dwell time of each ID
-v1.2.1: v1.2.1 but saves an output.mp4 video and .csv file of dwell time
+v1.2.1a: v1.2.1 but saves an output.mp4 video and .csv file of dwell time
+v1.2.1b: cleaned up version of v1.2.0 where only human objects are detected and tracked with ID
+v1.2.1b2: v1.2.1b but saves an output.mp4 video and .csv file of dwell time
+
+v1.3.0a: incorporates face tracking with FID
+v1.3.0b: v1.3.0a but saves an output.mp4 video and .csv file of dwell time
+v1.3.1a: v1.3.0a but incorporates face dwell time, along with linking FID with ID to see if they belong to the same person, this will later be saved to .csv for useful data analysis. (Face visible = seen ad)
+v1.3.1b: v1.3.1a but saves an output.mp4 video and .csv file of dwell time
